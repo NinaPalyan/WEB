@@ -1,3 +1,3 @@
-echo "<a href='";
-include('go/home.html');
-echo "'>" . $item['stockid'] . "</a>";
+<?php
+    include("C:\Users\User\Desktop\Uni\WEB\home.html");
+?>
