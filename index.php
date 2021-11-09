@@ -1,1 +1,1 @@
-echo ‘<?php include_once(“home.html”); ?>’ > index.php
+readfile("C:\Users\User\Desktop\Uni\WEB\home.html");
