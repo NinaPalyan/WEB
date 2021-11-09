@@ -1,1 +1,1 @@
-readfile("C:\Users\User\Desktop\Uni\WEB\home.html");
+readfile("C:/Users/User/Desktop/Uni/WEB/home.html");
