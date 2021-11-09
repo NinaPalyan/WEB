@@ -1,3 +1,1 @@
-<?php
-    include("C:\Users\User\Desktop\Uni\WEB\home.html");
-?>
+<?php include_once("home.html"); ?>
