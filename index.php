@@ -1,1 +1,3 @@
-readfile("C:/Users/User/Desktop/Uni/WEB/home.html");
+echo "<a href='";
+include('go/home.html');
+echo "'>" . $item['stockid'] . "</a>";
